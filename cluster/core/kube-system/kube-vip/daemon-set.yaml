@@ -40,7 +40,7 @@ spec:
             - name: svc_enable
               value: "false"
             - name: address
-              value: "192.168.2.200"
+              value: "192.168.2.210"
           securityContext:
             capabilities:
               add:
