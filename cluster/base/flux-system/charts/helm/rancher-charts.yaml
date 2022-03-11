@@ -5,5 +5,5 @@ metadata:
   name: rancher-charts
   namespace: flux-system
 spec:
-  interval: 10m
+  interval: 20m
   url: https://charts.rancher.io

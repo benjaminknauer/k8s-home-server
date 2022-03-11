@@ -4,5 +4,5 @@ metadata:
   name: rancher
   namespace: flux-system
 spec:
-  interval: 1m
+  interval: 30m
   url: https://releases.rancher.com/server-charts/stable
